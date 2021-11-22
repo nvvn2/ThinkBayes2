@@ -1,6 +1,6 @@
 ## ThinkBayes2
 
-*Think Bayes* is an introduction to Bayesian statistics using computational methods.  
+*Think Bayes* is an introduction to Bayesian statistics using computational methods.  sdfs 
 
 This is the repository for the forthcoming second edition; it is a work in progress.  If you are reading the first edition of the book, you don't want the code in this repo, yet.  Instead, you should go to [the repo for the first edition](https://github.com/AllenDowney/ThinkBayes).
 
