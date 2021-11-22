@@ -1,4 +1,4 @@
-# ThinkBayes2
+## ThinkBayes2
 
 *Think Bayes* is an introduction to Bayesian statistics using computational methods.  
 
